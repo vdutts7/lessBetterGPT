@@ -2,6 +2,12 @@
 
 **Quick use:** https://purple-chat-gpt.vercel.app/
 
+
+
+https://user-images.githubusercontent.com/63992417/226121861-2165852c-eb87-4d35-9a10-79f1cb1aff9e.mov
+
+
+
 #### ⭐️ Star the repo if you like it!
 #### Static website that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!
 
